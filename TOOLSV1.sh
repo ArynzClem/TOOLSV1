@@ -75,7 +75,7 @@ echo ""
 echo -e "============================" | lolcat
 echo -e $b "1. Install Qlizz${enda}";
 echo -e "============================" | lolcat
-echo -e $b "2. Install CAM-HACK${endcla}";
+echo -e $b "2. Install VID-HACK${endcla}";
 echo -e "============================" | lolcat
 echo -e $b "3. Install WEB PHISING${enda}";
 echo -e "============================" | lolcat
@@ -118,8 +118,8 @@ echo -e "${y}TUTORIAL ADA DI https://github.com/RozhakXD/Qlizz"
 
 #Install  
 
-2) git clone https://github.com/XPH4N70M/HACK-CAMERA.git
-echo -e "${y}TUTORIAL DI https://youtu.be/zaBU9I_KGXk"
+2) git clone https://github.com/KasRoudra/VidPhisher
+
 
 ;;
 
